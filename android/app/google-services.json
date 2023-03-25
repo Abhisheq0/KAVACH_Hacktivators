@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "999382439640",
+    "project_id": "safzen-98e87",
+    "storage_bucket": "safzen-98e87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999382439640:android:62e6858d3fefabe077e9ad",
+        "android_client_info": {
+          "package_name": "com.example.citizenSafety.citizen_safety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999382439640-hqomgqpr42lom9pfvtfvqce4cfk74l6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.citizenSafety.citizen_safety",
+            "certificate_hash": "421705ac5a8845c983b5fc573204cfb920ca0a4b"
+          }
+        },
+        {
+          "client_id": "999382439640-jbd5sc25k3kgjrq54ar82n6khkap258e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaFUsYCjlmfQxr-H1y_qVeq0QL0ps3AzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999382439640-jbd5sc25k3kgjrq54ar82n6khkap258e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
