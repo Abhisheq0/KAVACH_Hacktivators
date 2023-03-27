@@ -226,7 +226,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
                             ),
                             const Icon(
                               Icons.logout,
-                              color: Colors.greenAccent,
+                              color: Colors.lightBlueAccent,
                             ),
                           ],
                         ),

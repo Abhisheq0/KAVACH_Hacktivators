@@ -25,7 +25,7 @@ class _FirstScreenState extends State<FirstScreen> {
       bottomNavigationBar: Container(
         color: Colors.lightBlueAccent,
         child: Padding(
-          padding: const EdgeInsets.symmetric(horizontal: 15, vertical: 20),
+          padding: const EdgeInsets.symmetric(horizontal: 15, vertical: 10),
           child: GNav(
             padding: const EdgeInsets.all(12),
             gap: 0,
